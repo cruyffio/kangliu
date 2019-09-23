@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Kang Liu
+
+~~~
+{}{img_left}{photos/bio.png}{alt text}{160}{160}
+PhD,\n [https://eecs.engin.umich.edu/ Electrical Engineering and Computer Science], \n[https://umich.edu/ University of Michigan (UMich), Ann Arbor]\n
+1301 Beal Ave, Room 4402 \n
+Ann Arbor, MI 48109 \n 
+Email: /kangliu/ \[@\] umich \[DOT\] edu \n
+Linkedin: [https://www.linkedin.com/in/kang-liu-cruyff/ kang-liu-cruyff]
+~~~
+
+== About me
+I am currently a PhD student in Electrical Engineering and Computer Science department, majoring in [https://www.eecs.umich.edu/eecs/research/area.html?r_id=10 Control Systems], under the guidance of [http://web.eecs.umich.edu/~smm/ Professor Semyon M. Meerkov]. I received the B.S.E degree from Harbin Institute of Technology ([http://en.hit.edu.cn/ HIT]), China, in 2016. 
+
+== Research
+My research interests include 
+- Stochastic System Analysis and Control
+- Application of Probability Theory
+- Optimization
+- Machine Learning
+
+=== Publications 
+. K. Liu, N. Li, I. Kolmanvosky, A. Girard, \"A Vehicle Routing Problem with Dynamic Demands and Restricted Failures Solved Using Stochastic Predictive Control\", Proceedings of the 2019-ACC.
+. P. Alavian, Y. Eun, K. Liu (leading), S. M. Meerkov and L. Zhang (alphabetical order), \" The (alpha, beta)-Precise Estimates of MTBF and MTTR: Definitions, Calculations, and Induced Effect on Machine Efficiency Evaluation, \", Proceeding of the Manufacturing Modelling, Management and Control - 9th MIM 2019, Berlin, Germany.
+
+
+== CV
+[cv.pdf A brief cv].
