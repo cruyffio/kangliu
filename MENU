@@ -1,8 +1,8 @@
-menu
-    home                [index.html]
-	misc				[misc.html]
-	posts				[posts.html]
-	art works			[art_works.html]
+Menu
+    Home                [index.html]
+	Misc				[misc.html]
+	Blogs				[blogs.html]
+	Art works			[art_works.html]
 	
-usefull links
+Usefull links
    jemdoc   		[http://jemdoc.jaboc.net/]
