@@ -3,26 +3,36 @@
 
 ~~~
 {}{img_left}{photos/bio.png}{alt text}{160}{160}
-PhD,\n [https://eecs.engin.umich.edu/ Electrical Engineering and Computer Science], \n[https://umich.edu/ University of Michigan (UMich), Ann Arbor]\n
-1301 Beal Ave, Room 4402 \n
-Ann Arbor, MI 48109 \n 
+Senior Manager at American Express Company AI Labs \n
+PhD from [https://eecs.engin.umich.edu/ EECS] [https://umich.edu/ University of Michigan (UMich), Ann Arbor]\n
 Email: /kangliu/ \[at\] umich \[dot\] edu \n
-Linkedin: [https://www.linkedin.com/in/kang-liu-cruyff/ kang-liu-cruyff]
+Google Scholar: [https://scholar.google.com/citations?user=NBdbmr4AAAAJ&hl=en Kang Liu] \n
+Linkedin: [https://www.linkedin.com/in/kang-liu/ kang-liu] \n
+GitHub: [https://github.com/cruyffio cruyffio]
 ~~~
 
 == About me
-I am currently a PhD student in Electrical Engineering and Computer Science department, majoring in [https://www.eecs.umich.edu/eecs/research/area.html?r_id=10 Control Systems], under the guidance of [http://web.eecs.umich.edu/~smm/ Professor Semyon M. Meerkov]. I received the B.S.E degree from Harbin Institute of Technology ([http://en.hit.edu.cn/ HIT]), China, in 2016. 
+Currently I am a Senior Manager in American Express Company AI Labs, working on the company's Natural Langaue Processing R&D. I obtained my Ph.D. degree from University of Michigan, Electrical Engineering and Computer Science department, majoring in [https://www.eecs.umich.edu/eecs/research/area.html?r_id=10 Control Systems], under the guidance of [http://web.eecs.umich.edu/~smm/ Professor Semyon M. Meerkov], in August 2021, and the B.S.E degree from Harbin Institute of Technology ([http://en.hit.edu.cn/ HIT]), China, in 2016. 
 
 == Research
-My research interests include 
-- Stochastic System Analysis and Control
-- Application of Probability Theory
-- Optimization
-- Machine Learning
+My research interests include: 
+- Natural Language Processing,
+- Stochastic System Analysis and Control, 
+- Application of Probability Theory, 
+- Optimization.
+
+=== Dissertation
+The (α, β) Precision Theory for Production System Monitoring and Improvement, defended successfully on June 16th, 2021 [https://youtu.be/bXkVGuTwRiY \[video\]] [https://deepblue.lib.umich.edu/bitstream/handle/2027.42/169726/kangliu_1.pdf?sequence=1 \[thesis\]]. Committee members: Semyon M. Meerkov, Roman Kapuscinski, S. Sandeep Pradhan, Lei Ying.
 
 === Publications 
-. K. Liu, N. Li, I. Kolmanvosky, A. Girard, \"A Vehicle Routing Problem with Dynamic Demands and Restricted Failures Solved Using Stochastic Predictive Control\", Proceedings of the 2019-ACC.
-. P. Alavian, Y. Eun, K. Liu (leading), S. M. Meerkov and L. Zhang (alphabetical order), \" The (alpha, beta)-Precise Estimates of MTBF and MTTR: Definitions, Calculations, and Induced Effect on Machine Efficiency Evaluation, \", Proceeding of the Manufacturing Modelling, Management and Control - 9th MIM 2019, Berlin, Germany.
+. *K. Liu*, N. Li, I. Kolmanvosky, A. Girard, \"A Vehicle Routing Problem with Dynamic Demands and Restricted Failures Solved Using Stochastic Predictive Control\", Proceedings of the 2019-ACC. [https://ieeexplore.ieee.org/abstract/document/8814997 \[IEEE\]]
+. P. Alavian, Y. Eun, *K. Liu* (main), S. M. Meerkov and L. Zhang (alphabetical order), \" The (α, β)-Precise Estimates of MTBF and MTTR: Definitions, Calculations, and Induced Effect on Machine Efficiency Evaluation, \" Proceeding of the Manufacturing Modelling, Management and Control - 9th MIM 2019, Berlin, Germany. [https://www.researchgate.net/publication/336145854_The_a_b-Precise_Estimates_of_MTBF_and_MTTR_Definitions_Calculations_and_Induced_Effect_on_Machine_Efficiency_Evaluation \[ResearchGate\]]
+. P. Alavian, Y. Eun, *K. Liu* (main), S. M. Meerkov and L. Zhang (alphabetical order), \"The (α, β)-Precise Estimates of MTBF and MTTR: Definition, Calculation, and Observation Time,\" IEEE Transactions on Automation Science and Engineering. [https://ieeexplore.ieee.org/abstract/document/9180078 \[IEEE\]]
+. P. Alavian, Y. Eun, *K. Liu* (main), S. M. Meerkov and L. Zhang (alphabetical order), \"The (α_X, β_X)-Precise Estimates of Production Systems Performance Metrics,\" International Journal of Production Research. [https://www.tandfonline.com/doi/full/10.1080/00207543.2021.1886367 \[Taylor and Francis Online\]]
+. Y. Eun, *K. Liu* (main) and S. M. Meerkov (alphabetical order), \"Production Systems with Cycle Overrun: Modeling, Analysis, Improvability, and Bottlenecks,\" submitted to International Journal of Production Research.
 
-== CV
-[CV/cv.pdf A brief CV].
+== News
+- 1\/2021, I will be serving as GSI for course EECS 560 Linear Systems Theory in Winter 2021.
+- 5\/2020, I will be serving as Activity Chair of Electrical & Computer Engineering Graduate Student Council of UMich in 2020-2021 academic year.
+- 2\/2020, I will hold an intern position at American Express (New York City) in Summer 2020. 
+- 12\/2019, I will be serving as GSI for course EECS 569\/MFG 564 Production System Engineering in Winter 2020. 

@@ -1,5 +1,8 @@
 menu
-    Home                [index.html]
+    home                [index.html]
+	misc				[misc.html]
+	posts				[posts.html]
+	art works			[art_works.html]
 	
 usefull links
-   Jemdoc   		[http://jemdoc.jaboc.net/]
+   jemdoc   		[http://jemdoc.jaboc.net/]
